@@ -1,4 +1,4 @@
-# Proyecto 3
+# Proyecto: Convirtiéndome en un Científico de Datos
 
 Esta tarea requiere que encuentres al menos dos datasets en la web que estén relacionados, y que visualices estos conjuntos de datos para responder una pregunta acerca de un tema amplio (por ejemplo: deportes, salud, actividad económica, comparaciones demográficas, climática, etc.).
 
